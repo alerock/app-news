@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GeradorNoticia {
-
+	
 	public static List<Noticia> listNoticias(){
 		
 		List<Noticia> noticias = new ArrayList<Noticia>();
